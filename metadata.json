@@ -1,5 +1,5 @@
 {
-  "name": "Gemini Hello World",
-  "description": "A sophisticated Hello World application that uses Gemini AI to generate creative greetings in various styles and languages.",
+  "name": "Hola Simple",
+  "description": "Una aplicación minimalista que muestra la palabra Hola.",
   "requestFramePermissions": []
 }
